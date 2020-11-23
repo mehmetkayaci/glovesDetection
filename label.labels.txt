@@ -1,0 +1,2 @@
+hand
+medical_gloves
